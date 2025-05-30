@@ -18,12 +18,12 @@
 
 > *"Code is poetry written in logic, photography captures the poetry of life"*
 
-I'm a **Software Architect** with extensive experience in systems integration. Currently working at **[Flant](https://github.com/deckhouse/deckhouse)** 🌟, contributing to the **Deckhouse Kubernetes Platform** - a comprehensive platform for managing Kubernetes clusters.
+I'm a **Senior IT Architect** with extensive experience in systems integration. Currently working as Product Sale at **[Flant](https://github.com/deckhouse/deckhouse)** 🌟, expanding our **Deckhouse Kubernetes Platform** in a wide variety of customers.
 
 When I'm not architecting software solutions, you'll find me behind the camera capturing life's beautiful moments through **[photography](https://asprogis.ru/)** 📸.
 
 ### 🎯 Current Focus
-- 🏗️ **Software Architecture** - Designing scalable and robust systems
+- 🏗️ **Architecture** - Designing scalable and robust systems
 - 🤖 **AI/ML & LLM** - Exploring the frontiers of artificial intelligence
 - 🔍 **RAG Systems** - Building intelligent retrieval-augmented generation solutions
 - 📸 **Photography** - Capturing the world through creative lens
@@ -82,9 +82,7 @@ When I'm not architecting software solutions, you'll find me behind the camera c
 <div align="center">
 
 ### 🏢 Current Role
-**Software Architect** at **[Flant](https://github.com/deckhouse/deckhouse)** 🚀
-
-*Designing and developing the Deckhouse Kubernetes Platform - an enterprise-grade platform for managing Kubernetes clusters with NoOps approach*
+**Product Sale** at **[Flant](https://github.com/deckhouse/deckhouse)** 🚀
 
 [![Deckhouse](https://img.shields.io/badge/-Deckhouse_Platform-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/deckhouse/deckhouse)
 
@@ -134,7 +132,6 @@ When I'm not architecting software solutions, you'll find me behind the camera c
 </div>
 
 ### 🌟 Notable Contributions
-- **Deckhouse Kubernetes Platform** - Enterprise Kubernetes management platform
 - **WikiJS MCP Server** - Model Context Protocol server for Wiki.js integration
 - **AI/ML Projects** - Various experiments with LLM and RAG systems
 
@@ -157,7 +154,7 @@ When I'm not architecting software solutions, you'll find me behind the camera c
 
 <div align="center">
 
-**🤖 AI & Machine Learning** | **📸 Photography** | **☸️ Kubernetes** | **🚀 Software Architecture**
+**🤖 AI & Machine Learning** | **📸 Photography** | **☸️ Kubernetes** | **🚀 Architecture**
 
 *Building intelligent systems by day, capturing beautiful moments by weekend*
 
